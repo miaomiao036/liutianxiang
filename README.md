@@ -5,7 +5,7 @@
 
 > 下面是我的座右铭  
 > Talk is cheap. Show me the code.
-![个人头像](avatar.jpg) <!-- 添加图片 -->
+![个人头像](micro.jpg) <!-- 添加图片 -->
 
 **技术栈**：
 - Python
