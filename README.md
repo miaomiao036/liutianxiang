@@ -5,7 +5,7 @@
 
 > 下面是我的座右铭  
 > Talk is cheap. Show me the code.
-![个人头像]([5852f77ff314930f472f038d4b76524](https://github.com/user-attachments/assets/20ff15a8-85f7-4a5e-8932-e58ade493d8d)
+![个人头像]()
 ) <!-- 添加图片 -->
 
 **技术栈**：
