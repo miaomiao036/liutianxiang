@@ -12,15 +12,15 @@
 - [License](#license)
 
 ## ✨ Features
-- **核心功能 1**: 简要描述
-- **核心功能 2**: 简要描述
-- **扩展功能**: 附加功能说明
+- **核心功能 1**: 查询学生信息
+- **核心功能 2**: 添加学生信息
+- **扩展功能**: 待优化
 
 ## 🛠️ Installation
 ### Prerequisites
 - java
 - mybatis
-- Mysql
+- MySQL
 
 ### Installation Steps
 1. Clone the repository:
