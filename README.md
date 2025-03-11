@@ -20,7 +20,7 @@
 ### Prerequisites
 - java
 - mybatis
-- MySQL
+- MySQL(for java)
 
 ### Installation Steps
 1. Clone the repository:
