@@ -19,7 +19,7 @@
 ## 🛠️ Installation
 ### Prerequisites
 - java
-- mybatis
+- MyBatis
 - MySQL(for java)
 
 ### Installation Steps
