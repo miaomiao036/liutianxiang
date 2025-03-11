@@ -18,9 +18,9 @@
 
 ## 🛠️ Installation
 ### Prerequisites
-- Python 3.8+
-- pip package manager
-- Redis Server (for caching)
+- java
+- mybatis
+- Mysql
 
 ### Installation Steps
 1. Clone the repository:
