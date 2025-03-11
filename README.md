@@ -5,7 +5,12 @@
 
 > 下面是我的座右铭  
 > Talk is cheap. Show me the code.
+![个人头像](avatar.jpg) <!-- 添加图片 -->
 
+**技术栈**：
+- Python
+- Java
+- MySQL
 最伟大的代码！
 
 ![Project Banner](https://via.placeholder.com/800x200) <!-- 可选横幅图片 -->
