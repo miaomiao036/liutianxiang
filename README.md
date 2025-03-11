@@ -6,7 +6,7 @@
 > 下面是我的座右铭  
 > Talk is cheap. Show me the code.
 ![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png "GitHub图标")
-) <!-- 添加图片 -->
+<!-- 添加图片 -->
 
 **技术栈**：
 - Python
